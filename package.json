@@ -1,0 +1,16 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "email using nodemailer",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemailer": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saikat",
+  "license": "ISC"
+}
